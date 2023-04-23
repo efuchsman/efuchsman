@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Eli</h1>
+<h1 align="center">Hi, I'm Eli</h1>
 <h3 align="center">Software Engineer with a background in Mechanical Engineering</h3>
 
-- 👨‍💻 Portfolio link [https://terminal.turing.edu/profiles/1639](https://terminal.turing.edu/profiles/1639)
+- Portfolio link [https://terminal.turing.edu/profiles/1639](https://terminal.turing.edu/profiles/1639)
 
-- 📫 How to reach me **efuchsman@gmail.com**
+- How to reach me **efuchsman@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
