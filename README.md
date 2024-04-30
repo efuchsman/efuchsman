@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eli</h1>
 <h3 align="center">Software Engineer with a previous background in Mechanical Engineering</h3>
 
-- 👨‍💻 Portfolio link [https://terminal.turing.edu/profiles/1639](https://terminal.turing.edu/profiles/1639)
+- 👨‍💻 Portfolio link https://www.elifuchsman.com/
 
 - 📫 How to reach me **efuchsman@gmail.com**
 
